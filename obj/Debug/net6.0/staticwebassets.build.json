@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2QfpC/tzfkG622SbHSOHj+7KQlrJtcwyfhTrB+4yFhQ=",
+  "Source": "asp.net-core-razor",
+  "BasePath": "_content/asp.net-core-razor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
